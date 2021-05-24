@@ -1,2 +1,2 @@
 # Asuna
-Open Source Discord.js bot. Based on Asuna from SAO
+Open Source Discord bot. Based on Asuna from SAO
